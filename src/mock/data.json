@@ -1,0 +1,20 @@
+[
+	{ "url": "https://picsum.photos/400/500", "alt_description": "Görsel 1" },
+	{ "url": "https://picsum.photos/700/1200", "alt_description": "Görsel 2" },
+	{ "url": "https://picsum.photos/401/300", "alt_description": "Görsel 3" },
+	{ "url": "https://picsum.photos/401/450", "alt_description": "Görsel 4" },
+	{ "url": "https://picsum.photos/600/400", "alt_description": "Görsel 5" },
+	{ "url": "https://picsum.photos/402/300", "alt_description": "Görsel 6" },
+	{ "url": "https://picsum.photos/400/301", "alt_description": "Görsel 7" },
+	{ "url": "https://picsum.photos/400/303", "alt_description": "Görsel 8" },
+	{ "url": "https://picsum.photos/300/200", "alt_description": "Görsel 9" },
+	{ "url": "https://picsum.photos/403/300", "alt_description": "Görsel 10" },
+	{ "url": "https://picsum.photos/700/500", "alt_description": "Görsel 11" },
+	{ "url": "https://picsum.photos/400/320", "alt_description": "Görsel 12" },
+	{ "url": "https://picsum.photos/300/500", "alt_description": "Görsel 13" },
+	{ "url": "https://picsum.photos/500/302", "alt_description": "Görsel 14" },
+	{ "url": "https://picsum.photos/406/300", "alt_description": "Görsel 15" },
+	{ "url": "https://picsum.photos/400/750", "alt_description": "Görsel 16" },
+	{ "url": "https://picsum.photos/500/410", "alt_description": "Görsel 17" },
+	{ "url": "https://picsum.photos/600/320", "alt_description": "Görsel 18" }
+]

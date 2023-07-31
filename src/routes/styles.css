@@ -1,0 +1,31 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.gallery {
+	@apply gap-8 mt-8 px-[5vw] py-4;
+	column-count: 4;
+}
+@media (max-width: 1024px) {
+	.gallery {
+		@apply gap-[2.5vw];
+		column-count: 2;
+	}
+}
+@media (max-width: 419px) {
+	.gallery {
+		column-count: 1;
+	}
+}
+
+.gallery figure:not(:first-child) {
+	@apply mt-4;
+}
+@media (max-width: 1024px) {
+	.gallery figure:not(:first-child) {
+		@apply mt-[2.5vw];
+	}
+}
+.gallery figure img {
+	@apply w-full h-auto select-none align-middle;
+}
