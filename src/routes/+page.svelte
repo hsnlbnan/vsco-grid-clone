@@ -1,8 +1,7 @@
 <svelte:head>
-	<title>Home</title>
+	<title>Vsco Grid Clone</title>
 	<meta name="description" content="Svelte demo app" />
 </svelte:head>
-
 
 
 <script>

@@ -16,6 +16,7 @@
 				/>
 			</svg>
 
+			<div class="hidden md:flex md: gap-10">
 			<a href="/">Features</a>
 			<a href="/">Plans</a>
 			<a href="/">What's New</a>
@@ -26,6 +27,7 @@
             "
 				>Download VSCO
 			</button>
+		</div>
 		</div>
 	</div>
 	<div class="flex items-center gap-6">
